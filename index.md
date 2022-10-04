@@ -8,3 +8,7 @@
 ```
 Text in box
 ```
+This is a list:
+- [x] item one
+- [ ] item two
+- [ ] item three
